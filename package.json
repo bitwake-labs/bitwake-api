@@ -1,0 +1,23 @@
+{
+  "name": "bitwake",
+  "version": "0.0.1",
+  "description": "Backend for Bitwake app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitwake-labs/bitwake-api.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "lightning"
+  ],
+  "author": "João Thallis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitwake-labs/bitwake-api/issues"
+  },
+  "homepage": "https://github.com/bitwake-labs/bitwake-api#readme"
+}
