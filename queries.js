@@ -58,4 +58,7 @@ const withdrawSats = (request, response) => {
 }
 
 module.exports = {
-getUserByDeviceId,	updateUserSawAd,withdrawSats}
+    getUserByDeviceId,
+    updateUserSawAd,
+    withdrawSats
+}
