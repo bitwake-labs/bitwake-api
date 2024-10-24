@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/bitwake-labs/bitwake-api/issues"
   },
-  "homepage": "https://github.com/bitwake-labs/bitwake-api#readme"
+  "homepage": "https://github.com/bitwake-labs/bitwake-api#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.0"
+  }
 }
